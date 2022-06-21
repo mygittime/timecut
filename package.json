@@ -22,7 +22,7 @@
   "license": "BSD-3-Clause",
   "dependencies": {
     "commander": "^2.11.0",
-    "timesnap": "0.3.0"
+    "wbst_timesnap": "^0.3.4-prerelease"
   },
   "devDependencies": {
     "eslint": "^6.8.0"
